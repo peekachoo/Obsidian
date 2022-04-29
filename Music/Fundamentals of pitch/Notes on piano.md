@@ -1,0 +1,3 @@
+- Pitches are identified using letters from A to G - corresponding to the white keys from left to right on the keyboard.
+- The C in the middle of the piano keyboard is called middle C.
+- The 2 adjacent notes on the piano are 1 semitone/1 half [step](Steps.md) apart.

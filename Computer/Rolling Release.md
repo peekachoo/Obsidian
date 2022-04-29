@@ -1,0 +1,1 @@
+- Opposed to static release.

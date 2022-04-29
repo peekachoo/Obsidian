@@ -1,0 +1,9 @@
+- **Root position**: the root is used as the lowest tone (bass position).
+- **First inversion**: the 3rd is used as the lowest tone (bass position).
+- **Second inversion**: the 5th is used in the bass.
+- Example: these all are first inversions of F major triads 
+	- ![[Pasted image 20211227151812.png]]
+	- Upper notes can be spaced in any way.
+	- Any notes can be duplicated (doubled) in different octaves.
+- Inversions of 7th: just like triads, with 3 inversions:
+	- ![[Pasted image 20211227152012.png]]

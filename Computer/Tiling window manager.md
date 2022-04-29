@@ -1,0 +1,1 @@
+- Is a window manager which organize windows into mutually non-overlapping frames, as opposed to stacking floating and overlapping windows.

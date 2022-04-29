@@ -1,0 +1,3 @@
+- A tie connects 2 notes of the same pitch -> duration = the sum of the duration of 2 notes.
+	- ![[Pasted image 20211210131404.png]]
+- Ties are different from [[Slurs|slurs]].

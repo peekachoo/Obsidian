@@ -1,0 +1,2 @@
+- A slur connects 2 notes of different pitches -> means to play them connectedly.
+- ![[Pasted image 20211210131417.png]]

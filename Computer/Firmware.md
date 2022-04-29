@@ -1,0 +1,1 @@
+- Firmwares are permanent software programmed into a ROM (read-only memory), as opposed to software.

@@ -1,0 +1,5 @@
+- `chroot` -> change the root directory.
+- Programs that runs in the modified environment cannot access anything outside that modified root directory.
+- The modified environment is called: chroot jail.
+- Usage: when booting and/or logging is not possible.
+	- Reinstall the bootloader, upgrade or downgrade packages, reset password,...

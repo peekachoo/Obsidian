@@ -1,0 +1,3 @@
+- [[Pacman]] - Arch Linux -> no GUI
+- apt - Ubuntu
+- dnf - Fedora

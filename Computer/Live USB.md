@@ -1,0 +1,3 @@
+- Live USB is a distribution of an OS on a portable device that plugs into the USB port on a computer.
+- How to create a live USB: use the ISO downloaded and Futus (GUI) or dd (CLI [[utility]])
+	- `dd bs=4M if=path/to/arch.iso of=/dev/sdx-usb status=progress&& sync`

@@ -1,0 +1,1 @@
+- The way information is presented influences how we think.

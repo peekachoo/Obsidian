@@ -1,0 +1,7 @@
+- A shell is a program that allows user to interact with the OS (the kernel - the shell operates around the kernel like a shell in nature).
+- A shell is launched when we launch the [[terminal]].
+- Check which shell we are using: `echo $SHELL`
+- Ex: [[Bash]] - the most popular, powerful and friendly one, CSH, KSH, zsh (Oh my zsh!)
+- Types:
+	- CLI - Command-line shell.
+	- GUI - Graphical shell.

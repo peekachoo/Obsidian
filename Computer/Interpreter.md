@@ -1,0 +1,1 @@
+- Is a program that executes instructions in (high-level) programming or scripting languages directly **without converting them to object or machine code.**

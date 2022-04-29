@@ -1,0 +1,4 @@
+- A [[Clef]] associates lines and spaces on the staff with particular pitches.
+- Pitches are notated on a five-line staff.
+- Pitches may have [[Enharmonic equivalents|more than one name]].
+- Pitches are named ABCDEFG, and more using [[Accidentals|accidentals]].

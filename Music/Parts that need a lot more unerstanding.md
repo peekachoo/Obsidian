@@ -1,0 +1,3 @@
+- [ ] Meter - time signature. (esp. simple and compound)
+- [ ] Tuplets.
+- [ ] Perfect, minor, Major, dim, aug intervals.

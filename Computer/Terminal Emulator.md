@@ -1,0 +1,3 @@
+- Terminal emulators/terminal application: a program that emulates a [[terminal]].
+- Ex: Alacritty, xterm, GNOME Terminal, kermit, [[kitty]], xfce4, konsole... 
+### [[st]] 

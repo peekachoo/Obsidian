@@ -1,0 +1,12 @@
+- Form the circle of fifths:
+	- Start from C, go up or down a fifth ([[Interval]]).
+	- C go up a fifth is G... -> these are major keys.
+	- ![[Pasted image 20211208122239.png]]
+	- ![[Pasted image 20211208233811.png]]
+- Notice the overlapping keys, if two keys are not enharmonic, they are [[Transpositions|transpositions]] of each other.
+- Relatives: major/minor keys that feature the same note as their counterparts - therefore share the same key signature.
+	- 3^ of a minor is 1^ of its relative major.
+	- 6^ of a major 1^ of its relative minor.
+	- Ex: Am has the same all white notes as C.
+- Parallels: major/minor keys that share the same 1^.
+	- Ex: C major and C minor.

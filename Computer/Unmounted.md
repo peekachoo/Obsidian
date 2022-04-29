@@ -1,0 +1,2 @@
+- Unmount: detached the [[Mount|mounted]] filesystem from the directory.
+- Command: `umount dir` or `umount device`.

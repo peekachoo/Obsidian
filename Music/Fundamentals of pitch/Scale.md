@@ -1,0 +1,7 @@
+- A scale is a specific pattern of steps.
+- A scale is a collection of notes in order of pitches.
+- [[Scale degree]] numbers:
+	- ![[Pasted image 20211208062154.png]]
+- Key: the first degree of a scale.
+	- The key of G major - means the major scale starting on G.
+- [[Key signature]] is used to specify sharps and flats used in a scale.

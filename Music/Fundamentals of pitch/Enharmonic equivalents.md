@@ -1,0 +1,3 @@
+- Pitches may have more than one name (using [[Accidentals|accidentals]])
+	- D♯ = E♭ - the same note on the piano.
+- Two notes that sound the same but are written differently are enharmonic.

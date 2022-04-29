@@ -1,0 +1,3 @@
+![[Pasted image 20211210130703.png]]
+- Can continue to thirty-seconds, sixty-fourths,...
+- Durations other than these must be notated with [ties](Ties.md), [dots](Dots.md) or other symbols.

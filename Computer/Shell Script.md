@@ -1,0 +1,5 @@
+- Shell Scripts/Shell Programs: files that contain a set of instructions/commands that is used to automate repetitious tasks in the shell.
+- Similar to batch file in Windows.
+- Extensions: .sh (.bat in Windows).
+- Shell scripts have the same syntax as other programming language with keywords, commands, functions and control flow...
+- 

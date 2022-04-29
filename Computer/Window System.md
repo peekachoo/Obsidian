@@ -1,0 +1,2 @@
+- A system that control the GUI of Linux. It determines what needs to be drawn on the screen and how.
+- Ex: [[The X Window System|X11]]

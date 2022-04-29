@@ -1,0 +1,2 @@
+- The beat is the basic **steady** pulse of a musical passage.
+- To determine the beat - try to tap your foot or imagine the way a conductor conducts the passage.

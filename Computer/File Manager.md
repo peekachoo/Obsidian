@@ -1,0 +1,8 @@
+- Nautilus
+- Nemo
+- Thunar
+- PCManFM
+- [[Ranger]]
+- Gnome files
+- Dolphin
+- Plasma 5

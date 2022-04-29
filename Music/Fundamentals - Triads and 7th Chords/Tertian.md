@@ -1,0 +1,1 @@
+- Tertian harmony describes music and chords constructed with thirds.

@@ -1,0 +1,2 @@
+- Bash is a [[shell]] program for [[GNU]] OS. It's an Unix-shell.
+- When you run a terminal running the Bash shell, you'r greeted with a [[prompt]].

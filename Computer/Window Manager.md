@@ -1,0 +1,12 @@
+- A window manager (WM) is a software that controls the placement and appearance of windows.
+- Types:
+	- [[Tiling window manager|Tiling]].
+	- Stacking/floating.
+	- Dynamic: can switch between tiling and floating.
+- Linux: 
+	- [[i3wm|i3]] - a [[tiling window manager]].
+	- Other tiler: awesomewm, bspwm, herbstluftwm..
+	- Floater/dynamic: dwm, 2bwm,
+	- [[Desktop Environment|DE]]: KDE plasma, xfce
+- A lot of applications have built-in client side decoration thus do not need a wm.
+### [[dwm]] 

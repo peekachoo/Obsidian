@@ -1,0 +1,8 @@
+- The kernel is a computer software at the core of a computer's OS, controlling everything:
+	- File administration.
+	- Management of processes.
+	- Management of I/O.
+	- Device management, memory management,...
+- A complete Linux kernel consists of: the kernel, the [[gnu]] system utilities and libraries, additional management scripts, installation scripts.
+- **Kernel is the lowest level software in the computer.**
+- Check kernel version: `uname -r`

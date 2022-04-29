@@ -1,0 +1,4 @@
+- Melodic minor scale has 2 forms:
+	- Ascending: like a major with lowered 3^.
+		- ![[Pasted image 20211209005832.png]]
+	- Descending: the same as natural minor scale.

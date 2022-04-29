@@ -1,0 +1,4 @@
+- Scale degree: the **position** of a note relative to the tonic on a scale.
+- Scale degrees are referred to by numbers or names.
+	- ![[Pasted image 20211210121626.png]]
+	- 7^ in minor can be called either subtonic or leading tone depending upon whether it is raised or not.

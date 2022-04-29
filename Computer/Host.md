@@ -1,0 +1,3 @@
+- The host machine/the host computer/host [[OS]] is the physical machines equipped with a hypervisor.
+- The host allows the guest OS to use its resources.
+- See [[Virtual machine]]

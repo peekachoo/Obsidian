@@ -1,0 +1,4 @@
+- Key signatures: a pattern of sharps and flast to remind which are in the [[Scale/key|scale]] of a piece (so that we don't have to write the [[Accidentals|accidentals]] again and again throughout the piece).
+- A key signature is placed at the beginning of a piece/a section and is written with the clef.
+- [[Major Key Signature]].
+- A tool to remember key signature: [[Circle of Fifths]].

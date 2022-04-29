@@ -1,0 +1,1 @@
+- system time cannot be changed while the system is running, as opposed to time zone.

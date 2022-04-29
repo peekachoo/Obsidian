@@ -1,0 +1,1 @@
+- Power On Self Test: a set of tests performed by the computer when it's powered on to check for hardware-related issues.

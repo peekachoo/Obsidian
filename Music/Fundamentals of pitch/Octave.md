@@ -1,0 +1,3 @@
+- The distance from any note up or down to the next same note is an octave/8ve.
+	- A4-A5
+	- C4-C3

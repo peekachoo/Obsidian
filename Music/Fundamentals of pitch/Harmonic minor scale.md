@@ -1,0 +1,2 @@
+- Like a major scale with lowered 3^ and 6^.
+	- ![[Pasted image 20211209005809.png]]

@@ -1,0 +1,1 @@
+- Is a symbol (usually $) indicating that the shell is waiting for user input.

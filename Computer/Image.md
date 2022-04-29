@@ -1,0 +1,5 @@
+- ISO Image is a single file that contains **an identical copy (or image)** of data found on an optical disc (CD/DVD/Blu-ray).
+  -> A smaller sized duplicate of large sets of data.
+- ISO files are used to back up optical disks or store data. 
+	- But in the OS world, it is often used to distribute large programs over the internet.
+	- And by uploading them on a ISO file, they can be downloaded, mounted or burned on an optical disk easily. -> mounting an ISO image as a virtual disk makes all programs recognize and handle it as an actual optical disk -> ensure proper function.

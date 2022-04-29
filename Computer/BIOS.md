@@ -1,0 +1,4 @@
+- BIOS: Basic Input/Output System
+- Is a software installed on a ROM memory chip on the motherboard (a [[firmware]]).
+- It is responsible for the [[boot]] procedure: [[POST]], some basic functions like booting and keyboard control, identify and configure hardwares,... -> boot mode
+- Access BIOS: del/ F12/ F10

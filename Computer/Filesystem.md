@@ -1,0 +1,4 @@
+- The way data is stored and their structure is called filesystem.
+- In UNIX, all files are under a single directory tree structure, as opposed to Windows with separate directory tree for each drive.
+	- Beginning at the root: `/` -> all data has to have location in this single directory tree to be accessible -> to access data from a filesystem on a device, we have to [[Mount]] it to the directory tree.
+- Filesystem type: ext4, fat32,...

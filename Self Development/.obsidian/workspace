@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "da47970929f97351",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8d71f047a8d3d9c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Anchoring Bias.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c34df68ccdcebdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "63a075fd1c5d1a80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af3a968578a660ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "92615bdfe454fb90",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "547d152799e77693",
+    "type": "split",
+    "children": [
+      {
+        "id": "c47e54f7d96e2cb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e581774bc7a9ecae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Anchoring Bias.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e8d71f047a8d3d9c",
+  "lastOpenFiles": [
+    "Anchoring Bias.md",
+    "Framing Bias.md",
+    "Anchoring Bias.md"
+  ]
+}

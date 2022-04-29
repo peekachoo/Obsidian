@@ -1,0 +1,6 @@
+- Major scale pattern is the same as all the white keys from any C up to the next C.
+- Pattern: W-W-H-W-W-W-H 
+- Examples:
+	- C major: C D E F G A B.
+	- G major: G A B C D E F♯ G.
+- [[Major Key Signature]]

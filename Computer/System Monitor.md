@@ -1,0 +1,2 @@
+- Is an application allowing us to display system information, monitor system processes, usage of resources, file systems,..
+- Ex: Conky

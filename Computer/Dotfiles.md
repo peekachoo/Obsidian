@@ -1,0 +1,5 @@
+- Dotfiles are plain text configuration files on Unix-y systems.
+- Dotfiles allow us to customize save our preferred setup for our system. This can become handy when we have to set up a fresh system or to sync preferences across multiple devices.
+- **Organization**: organize your dotfiles in some directory, this can be a USB drive or a [[GitHub]] repository.
+- **Installation**: copy or symlink them from the home directory.
+- Ex of usage: startup script, keybindings, aliases, functions (commands that are too complex for aliases and too small for a stand-alone script), environmen variables, prompt, gitconfig, vimrc, installation script,...

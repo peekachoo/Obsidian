@@ -1,0 +1,2 @@
+- A mirror is **another server which mirrors/clones** data from the main server.
+  -> A different source to download programs/data.

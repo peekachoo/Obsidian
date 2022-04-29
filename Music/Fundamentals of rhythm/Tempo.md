@@ -1,0 +1,5 @@
+- Tempo is the rate at which the [[Beat|beats]] occur.
+- Tempo is specified by words or bpm.
+	- Words:
+		- ![[Pasted image 20211210132148.png]]
+	- BPM: beats per minute.

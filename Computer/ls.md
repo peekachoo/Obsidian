@@ -1,0 +1,2 @@
+- `-l` : long format.
+- `-a` : list all files (hidden file included).

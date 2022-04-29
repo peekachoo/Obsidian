@@ -1,0 +1,3 @@
+- Pitch: the highness or lowness of a sound.
+- Pitches are represented by notes [[Notes on piano|on the piano]] and [[Notating pitches|on the staff]].
+- [[Notating pitches]]: A, B, C, D, E, F, G.

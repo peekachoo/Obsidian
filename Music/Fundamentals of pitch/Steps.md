@@ -1,0 +1,2 @@
+- A semitone/a half step is the space between 2 adjacent notes on the piano.
+- A whole tone/whole step = 2 semitones/2 half steps.

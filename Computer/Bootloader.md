@@ -1,0 +1,1 @@
+- A program that loads an [[OS]] when a computer is turned on.

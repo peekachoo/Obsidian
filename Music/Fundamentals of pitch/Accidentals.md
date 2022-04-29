@@ -1,0 +1,7 @@
+- Accidentals are placed before notes to raise or lower them.
+	- A **sharp** (**♯**) raises a pitch a half step.
+	- A **flat** (**♭**) lowers a pitch a half step.
+	- A **double sharp** (**𝄪**) raises a pitch a whole step.
+	- A **double flat** (**♭♭**) lowers a whole step.
+	- A **natural** (**♮**) cancels any accidentals.
+- When we write or say the names of the notes, accidentals comes after the note (F♯ or F-sharp)

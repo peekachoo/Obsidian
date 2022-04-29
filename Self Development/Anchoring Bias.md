@@ -1,0 +1,2 @@
+* How we learn new information the first time influences how we learn it and other things afterwards.
+* So it's best not to get your bank of knowledge tangled and cluttered with things that you don't understand or else it would be hard to reset our mind and we might end up learn things again.

@@ -1,0 +1,3 @@
+- A text editor in command line.
+- Display line number always: configure `nano ~/.nanorc` -> this file doesn't exist in the first place -> add `set linenumbers`.
+- Go to a specific line: Alt + G + line number.

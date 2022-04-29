@@ -1,0 +1,1 @@
+- Utilities are softwares that often used in cmd/shell/script to help the computers, as opposed to application softwares that are often aimed to help the users.

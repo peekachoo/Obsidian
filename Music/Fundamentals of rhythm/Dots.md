@@ -1,0 +1,3 @@
+- A dot adds half the duration of the note to it.
+- Second dot adds half the first dot to the note (double-dotted notes).
+- ![[Pasted image 20211210131433.png]]

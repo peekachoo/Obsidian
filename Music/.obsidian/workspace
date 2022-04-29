@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "85f268e07256dd20",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f1a8cef07eac204",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2207c91e7c84295d",
+    "type": "split",
+    "children": [
+      {
+        "id": "48ad491518419549",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0340c0e6b8744d1c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a1883551e8b6ed26",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8b759796cc1cc10d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b38da8c34c4fea62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00086eb8844f1a2d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4f1a8cef07eac204",
+  "lastOpenFiles": [
+    "Voicings.md",
+    "Pasted image 20211227151812.png",
+    "Parts that need a lot more unerstanding.md",
+    "Pasted image 20211227153150.png",
+    "Pasted image 20211227152536.png",
+    "Pasted image 20211227152509.png",
+    "Rendition.md",
+    "Practice.md",
+    "Questions.md",
+    "Pasted image 20211227153222.png"
+  ]
+}

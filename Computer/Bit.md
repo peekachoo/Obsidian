@@ -1,0 +1,1 @@
+* A bit: a binary digit - can only have the value of 0 or 1.

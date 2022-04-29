@@ -1,0 +1,3 @@
+- A software which interacts wiith the [[The X Window System|window system]] as well as graphic in Linux to produce: transparent windows, transition animations, 3D effect, drop shadow, V sync,...
+- -> A very important part of the aesthetics.
+- Ex: [[picom]], compton (ded Xb),

@@ -1,0 +1,3 @@
+- DM/or Login Manager: the utility that handles **anthentication**, **manages user session**.
+- It also starts the [[The X Window System|display server]] (X) (.xsession) and loads the desktop.
+- Ex: LightDM, G(nome)DM, SLiM, KDM, MDM,...

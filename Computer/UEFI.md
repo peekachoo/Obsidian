@@ -1,0 +1,3 @@
+- Unified Extensible Firmware Interface: is a software installed on the ROM on the motherboard (a [[firmware]]).
+- Performs tasks like [[BIOS]], with 1 difference: it stores all initialization and startup data in an `.efi` file instead of the firmware.
+- `.efi` file is stored on a special partition called EFI System Partition (ESP) on the hard disk. The [[bootloader]] is also contained here.

@@ -1,0 +1,3 @@
+- Is a text-based interface allowing us to communicate with the [[shell]]/a command-line shell.
+- In Windows: cmd.
+- CLI shell allows us to save commands and execute them all at once, automate repetitious task -> batch records (windows)/[[Shell Script|shell scripts]](Linux & MacOS).

@@ -1,0 +1,15 @@
+- [ ] Memorize major key signatures (write all) - just need to memorize the 2 patterns of sharps and flats - the number of sharps and flats will come from the circle of fifths.
+- [ ] Memorize minor key signatures (write all)
+- [ ] Identify major key signatures (tell names).
+- [ ] Identify minor key signatures (tell names).
+- [ ] Memorize notes placement in treble and bass clef. 
+- [ ] Memorize the circle of fifths for major keys.
+- [ ] Memorize the circle of fifths for minor keys.
+- [ ] Practice all major/minor scales on piano until memorized.
+- [ ] Scale degree names (looking at number or staff).
+- [ ] Naming/notate intervals on staffs.
+- [ ] Identify meter (dupler, triple, quadruple?).
+- [ ] Simple vs compound.
+- [ ] Complete a measure given the time signature.
+- [ ] Spell the triads, given the root and type.
+- [ ] Notate triads, given roots (or any member) and types.

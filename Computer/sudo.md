@@ -1,0 +1,4 @@
+- A Unix-like OS program that enables user to run programs with the security privileges of another user, by default the [[root user]]/superuser without logging in as the [[root user]].
+- Stands for: "superuser do".
+- Installation: Arch: `pacman -S sudo`
+- Edit sudoers file: `EDITOR=nano visudo`

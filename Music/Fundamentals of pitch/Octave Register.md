@@ -1,0 +1,4 @@
+- After G, the note A returns and ABCDEFG repeats again.
+- All the pitches from one C up to, but not including the next C are in the same [Octave](Octave.md) register.
+- F4 and C4 are in the same octave register(4).
+- A register starts with C and ends with B.
