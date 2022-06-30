@@ -1,0 +1,2 @@
+- The incomplete first measure of a piece of music.
+- Usually, a piece that begins with an anacrusis ends with an incomplete measure as well.

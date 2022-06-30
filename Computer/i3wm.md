@@ -5,4 +5,4 @@
 ![[i3 tree data structure 3.png]]
 # i3-gaps
 ## Installation
-- `pacman -S i3-gaps`
+- `pacman -S i3-gaps i3status `

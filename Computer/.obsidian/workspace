@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Xorg.md",
+            "file": "Arch Linux.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "startx",
+                "query": "mkdir",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Xorg.md",
+                "file": "Arch Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "e5002d17a5c433fc",
   "lastOpenFiles": [
-    "Xorg.md",
     "Arch Linux.md",
     "i3wm.md",
-    "Interpreter.md",
-    "i3 tree data structure 3.png",
-    "Pasted image 20220428221916.png.md",
-    "i3 tree data structure.png",
-    "i3 tree data structure 2.png",
-    "Pasted image 20220428221916.png",
-    "Window Manager.md"
+    "TTY.md",
+    "xinit.md",
+    "Window Manager.md",
+    "sudo.md",
+    "pacman.md",
+    "[systemd-networkd.md",
+    "Desktop Environment.md",
+    "chroot.md"
   ]
 }

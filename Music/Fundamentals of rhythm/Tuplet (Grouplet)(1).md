@@ -1,0 +1,9 @@
+- Tuplet (or grouplet): when the division of the beat is not normal. That is:
+	- When an undotted value is divided into some number other than 2/4/8...
+	- When a dotted value is devided into some number other than 3/6/12...
+	- ![[Pasted image 20211217145814.png]]
+- For example: a quarter note is naturally divided into 2 eighths or 4 sixteenths.
+	-> If 3 eighths in the span of a quarter: triplet.
+	-> 5 sixteenths in the span of a quarter: quintuplet.
+- Other: sextuplets, septuplets, duplet, quadruplet,..
+- The most common: triplets on a simple beat.

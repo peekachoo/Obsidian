@@ -1,6 +1,6 @@
 # Arch Linux is the distro for beginners.
 ## Installation - Base
-- Helpful links: [1]([https://itsfoss.com/install-arch-linux/](https://itsfoss.com/install-arch-linux/), [2](https://www.freecodecamp.org/news/how-to-install-arch-linux), [3]([Arch Linux Installation Guide 2020 - YouTube](https://www.youtube.com/watch?v=PQgyW10xD8s))
+- Hlyselpful links: [1]([https://itsfoss.com/install-arch-linux/](https://itsfoss.com/install-arch-linux/), [2](https://www.freecodecamp.org/news/how-to-install-arch-linux), [3]([Arch Linux Installation Guide 2020 - YouTube](https://www.youtube.com/watch?v=PQgyW10xD8s))
 1. [Arch Linux - Downloads](https://archlinux.org/download/)
 2. Verify signature with GnuPG........ (I skipped this step :P).
 3. Boot the live environment (via a [[Live USB]], disk,...).
@@ -18,7 +18,7 @@
 		1. Ethernet: plug in the cable.
 		2. Wifi: authenticate using [[iwctl]].
 	3. Configure your network connection:
-		1. DHCP: ~~automatically configured.~~ -> haha no, read troubleshooting below.
+		1. DHCP: ~~automatically configured.~~ -> haha no, read troubleshooting [below.
 		2. Static IP: [[network manager]] or `dhcpcd`.
 	4. Check connection with `ping`.
 6. Set [[system time]]: `timedatectl list-timezones` -> `timedatetl set-timezone Europe/Paris`.
@@ -45,7 +45,7 @@
 	3. `swapon /dev/swap_partition` -> enable swap volume.
 10. Arch Installation:
 	1. Download packages from [[mirror]] servers defined in `/etc/pacman.d/mirrorlist` with reflector:
-		1. Syn the pacman repo: `pacman -Syy`
+		1. Sync the pacman repo: `pacman -Syy`
 		2. Install reflector: `pacman -S reflector`
 		3. Backup mirrorlist: `cp /etc/pacman.d/mirrorlist /etc/pacman.d/mirrorlist.bak`.
 		4. Use reflector to get a good mirror list: `reflector -c "FR" -f 12 -l 10 - n 12 --save /etc/pacman.d/mirrorlist`.
@@ -86,7 +86,7 @@
 	   `Name=eth*`
 	   `[Network]
 	   `DHCP=ipv4`
-	3. `systemctl restarte systemd-networkd`
+	3. `systemctl restart systemd-networkd`
 	4. `systemctl enable systemd-networkd`
 	5. `systemctl enable NetworkManager.service`
 2. Create new [[Root user|users]]:
@@ -104,12 +104,13 @@
 2. Install wallpaper app and a [[compositor]] (picom):
    `pacman -S nitrogen picom`.
 3. Three tools that must be installed before trying to log in to a new DE or WM: text editor, [[terminal emulator]], web browser.
-   `pacman -S vim firefox`
+   `pacman -S vim kitty firefox`
+   Other: dmenu and file manager: `pacman -S ranger dmenu`
 4. For [[Window Manager|WM]] and [[Terminal Emulator]], we'll install from the [[AUR]] (dwm, dmenu, st, nerd-fonts-mononoki).
 5. Edit the xinitrc fiile and run -> see [[xinit]].
    `nitrogen --restore &`
    `picom &`
-   `exec dwm`
+   `exec dwm/i3` (need to install first)
 6. `reboot`
 7. On booting, after login: run `startx`
 
